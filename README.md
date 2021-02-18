@@ -31,6 +31,9 @@ Training data may be provided by any official source, such as [qualar.apambiente
 
 Pre-processing to clean up irregular measures or to standardize the source files to feed the model may be required. [Pre-processed files used in File Charter](https://github.com/Armfoot/file_charter/tree/master/data) may be used as a starting point.
 
+Linear and logistic regression are appropriate methods to consider in the development of models, due to the regression nature of this problem.
+Cross-validation may avoid overfitting issues in the application of these trained models.
+
 ## Challenges
 
 Predictions depend on the amount of available data to train the model for a particular region and may be affected by random environmental changes.
