@@ -27,7 +27,7 @@ Model training should ideally be performed exclusively on real data provided by 
 
 ## Data sources and AI methods
 
-Training data may be provided by any official source, such as [qualar.apambiente.pt][https://qualar.apambiente.pt].
+Training data may be provided by any official source, such as [qualar.apambiente.pt](https://qualar.apambiente.pt).
 
 Pre-processing to clean up irregular measures or to standardize the source files to feed the model may be required. [Pre-processed files used in File Charter](https://github.com/Armfoot/file_charter/tree/master/data) may be used as a starting point.
 
